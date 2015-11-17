@@ -1,0 +1,16 @@
+{
+  "title": "Tus.io",
+  "name": "tus-io",
+  "version": "0.0.1",
+  "dependencies": {
+    "depurar": "^0.2.0",
+    "download": "^4.2.1",
+    "glob": "5.0.15",
+    "js-yaml": "^3.4.3",
+    "on-the-githubs": "2.3.0",
+    "postcss": "5.0.9",
+    "postcss-reporter": "1.2.1",
+    "stylelint": "2.3.0",
+    "tus-js-client": "1.1.0"
+  }
+}
